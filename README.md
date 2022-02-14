@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ In this lab I made 2 turtles race 10 times and I also had to make 5 objects , a triangle , square , hecagon , nonagon and decagon. I had to make variable for lengths and the turning motions of each of the objects 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 0 >
 
-Grace days remaining: < # >/5
+Grace days remaining: 5 /5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ I completed all parts of the projects
 
 ## REFERENCES:
- < List any outside resources used >
+ CA Tommy
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+Very cool. 
